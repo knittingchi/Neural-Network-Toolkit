@@ -1,4 +1,4 @@
-# Basic-FFNN-Structure (in Pycharm)
+# Basic-FFNN-Structure 
 Basic structure of a feed forward neural network. 
 
 Beginner-friendly with definitions and therefore easy to start with. 
