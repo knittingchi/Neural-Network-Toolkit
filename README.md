@@ -12,6 +12,9 @@ Sources
 
 # 1. Feed Forward Neural Networks (FFNNs)
 
+- Perzeptron (Single Layer FFNN)
+- Convolutional Neural Network (CNN, Multilayer FFNN)
+
 # 2. Recurrent Neural Networks (RNNs)
 
 
