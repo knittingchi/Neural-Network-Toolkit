@@ -1,5 +1,10 @@
 # Neural Network Toolkit
 
+under construction.
+
+
+
+
 Build your own artificial neural network, from basic up to complex!
 
 ...when I started learning about ann's I kind of missed an easy-to-understand structured manual with codes, visualizations and explanations for complete dl rookies. 
