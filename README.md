@@ -25,7 +25,7 @@ Sources
 
 -
 
-# 3. TensorFlow Datasets
+# 3. TensorFlow Data Sets
 [click here](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)
 
 # 4. Project Ideas
