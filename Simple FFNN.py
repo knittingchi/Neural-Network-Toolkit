@@ -36,7 +36,7 @@ model.add(tf.keras.layers.Dense(1, activation="sigmoid"))
 model.compile(
     optimizer = "adam",
     loss = "binary_crossentropy",
-    metrics = ["accuarcy"]
+    metrics = ["accuracy"]
 )
 model.fit(X_training, y_training, epochs = 20)
 
