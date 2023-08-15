@@ -28,7 +28,7 @@ X_training, X_testing, y_training, y_testing = train_test_split(
 # neural network structure, sequential means one layer after the other
 model = tf.keras.models.Sequential()
 
-# hidden/dense layers, for example: 8 units, ReLU activation function
+# hidden/dense layer, for example: 8 units, ReLU activation function
 model.add(tf.keras.layers.Dense(8, input_shape = (4,), activation = "relu"))
 
 # add output layer, 1 unit, sigmoid activation
