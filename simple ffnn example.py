@@ -1,3 +1,5 @@
+# ffnn for binary classifications
+
 import tensorflow as tf
 import csv
 
