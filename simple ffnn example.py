@@ -3,7 +3,7 @@ import csv
 
 from sklearn.model_selection import train_test_split
 
-# read in data set
+# insert data set between ""
 with open("") as f:
     reader = csv.reader(f)
     next(reader)
